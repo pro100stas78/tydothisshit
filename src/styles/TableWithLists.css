@@ -1,0 +1,28 @@
+.table {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.ToDoView {
+    background: grey;
+    width: 60%;
+    margin: auto;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+table td {
+    vertical-align: top;
+    width: 30%;
+}
+
+select {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.addHeightForContainer {
+    height: 500px;
+}

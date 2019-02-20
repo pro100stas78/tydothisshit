@@ -1,0 +1,10 @@
+.wrapper {
+    text-align: center;
+}
+
+.loading {
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 44px;
+    color: gray;
+}
